@@ -1,0 +1,26 @@
+.pagination{
+    /* border: 2px solid red; */
+    width: 500px;
+    margin: auto;
+    gap: 50px;
+}
+select{
+    outline: skyblue 2px solid;
+    border-radius: 5px;
+    border:skyblue ;
+   box-shadow: 0px 0px 5px skyblue ;
+}
+button{
+background: none;
+color: skyblue;
+background: none;
+padding: 2px 10px !important;
+display: inline-block;
+border:  2px solid skyblue;
+box-shadow: 0px 0px 5px skyblue  ;
+border-radius: 5px !important;
+
+}
+th,td{
+    text-align: center !important;
+}
